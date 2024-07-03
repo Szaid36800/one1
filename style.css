@@ -1,0 +1,61 @@
+*{
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+img{
+    padding-left: 400px;
+    
+    }
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+  }
+  
+  header {
+    background-color: #f7f7f7;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: chocolate;
+    border-radius: 50%;
+  }
+  
+  .description {
+    margin-bottom: 20px;
+    
+  }
+  
+  .preparation-time,.ingredients,.instructions,.nutrition {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+  }
+  
+  h2 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  
+  ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .ingredients ul,.instructions ol {
+    padding-left: 20px;
+  }
+  
+  
+   
